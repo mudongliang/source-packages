@@ -21,6 +21,7 @@ This repo stores source code of the vulnerable program.
 - [x] CVE-2005-3862
 - [x] CVE-2005-4807
 - [x] CVE-2006-0539
+- [x] CVE-2006-1148
 - [x] CVE-2006-2362
 - [x] CVE-2006-2656
 - [x] CVE-2006-2971
@@ -85,46 +86,46 @@ This repo stores source code of the vulnerable program.
 
 ## EDB-ID List
 
-- [ ] EDB-10634
-- [ ] EDB-14904
-- [ ] EDB-15054
+- [x] EDB-10634
+- [x] EDB-14904
+- [x] EDB-15054
 - [x] EDB-15705
-- [ ] EDB-1574
-- [ ] EDB-1578
-- [ ] EDB-16855
+- [x] EDB-1574
+- [x] EDB-1578
+- [x] EDB-16855
 - [x] EDB-17083
 - [x] EDB-17611
 - [x] EDB-22683
 - [x] EDB-23523
 - [x] EDB-24981
 - [x] EDB-24984
-- [ ] EDB-24995
-- [ ] EDB-25011
+- [x] EDB-24995
+- [x] EDB-25011
 - [x] EDB-25018
 - [x] EDB-25030
-- [ ] EDB-25411
-- [ ] EDB-2857
-- [ ] EDB-2928
-- [ ] EDB-30648
-- [ ] EDB-3330
-- [ ] EDB-3333
-- [ ] EDB-33949
+- [x] EDB-25411
+- [x] EDB-2857
+- [x] EDB-2928
+- [x] EDB-30648
+- [x] EDB-3330
+- [x] EDB-3333
+- [x] EDB-33949
 - [x] EDB-34164
-- [ ] EDB-35450
-- [ ] EDB-36229
-- [ ] EDB-369
-- [ ] EDB-37051
-- [ ] EDB-3730
-- [ ] EDB-374
-- [ ] EDB-37987
-- [ ] EDB-37988
+- [x] EDB-35450
+- [x] EDB-36229
+- [x] EDB-369
+- [x] EDB-37051
+- [x] EDB-3730
+- [x] EDB-374
+- [x] EDB-37987
+- [x] EDB-37988
 - [x] EDB-38616
-- [ ] EDB-38617
-- [ ] EDB-38681
+- [x] EDB-38617
+- [x] EDB-38681
 - [x] EDB-38685
-- [ ] EDB-39406
+- [x] EDB-39406
 - [x] EDB-39445
-- [ ] EDB-5424
+- [x] EDB-5424
 - [x] EDB-652
 - [x] EDB-890
 - [x] EDB-9264
