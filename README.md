@@ -34,36 +34,36 @@ This repo stores source code of the vulnerable program.
 - [x] CVE-2006-5815
 - [x] CVE-2006-6563
 - [x] CVE-2007-1001
-- [ ] CVE-2007-1371
+- [x] CVE-2007-1371
 - [x] CVE-2007-1777
-- [ ] CVE-2007-2446
-- [ ] CVE-2007-2683
-- [ ] CVE-2007-2872
+- [x] CVE-2007-2446
+- [x] CVE-2007-2683
+- [x] CVE-2007-2872
 - [x] CVE-2007-4060
 - [x] CVE-2007-4965
-- [ ] CVE-2007-6454
-- [ ] CVE-2007-6697
-- [ ] CVE-2007-6731
-- [ ] CVE-2008-1767
+- [x] CVE-2007-6454
+- [x] CVE-2007-6697
+- [x] CVE-2007-6731
+- [x] CVE-2008-1767
 - [x] CVE-2008-2950
-- [ ] CVE-2008-4864
-- [ ] CVE-2008-5314
-- [ ] CVE-2008-5904
-- [ ] CVE-2009-1886
+- [x] CVE-2008-4864
+- [x] CVE-2008-5314
+- [x] CVE-2008-5904
+- [x] CVE-2009-1886
 - [x] CVE-2009-2286
-- [ ] CVE-2009-3050
-- [ ] CVE-2009-4880
+- [x] CVE-2009-3050
+- [x] CVE-2009-4880
 - [x] CVE-2009-5018
 - [x] CVE-2010-1147
 - [x] CVE-2010-2891
 - [ ] CVE-2010-3904
-- [ ] CVE-2010-4221
+- [x] CVE-2010-4221
 - [x] CVE-2010-4259
-- [ ] CVE-2010-4409
+- [x] CVE-2010-4409
 - [x] CVE-2011-1938
 - [x] CVE-2012-2386
 - [x] CVE-2012-4409
-- [ ] CVE-2012-4412
+- [x] CVE-2012-4412
 - [x] CVE-2013-0221
 - [x] CVE-2013-0222
 - [x] CVE-2013-0223
@@ -72,10 +72,10 @@ This repo stores source code of the vulnerable program.
 - [ ] CVE-2014-2851
 - [x] CVE-2014-8322
 - [ ] CVE-2015-1328
-- [ ] CVE-2015-7547
-- [ ] CVE-2015-7805
+- [x] CVE-2015-7547
+- [x] CVE-2015-7805
 - [ ] CVE-2016-0728
-- [ ] CVE-2016-2233
+- [x] CVE-2016-2233
 - [x] CVE-2016-2563
 - [ ] CVE-2016-5195
 - [x] CVE-2016-7445
@@ -85,8 +85,6 @@ This repo stores source code of the vulnerable program.
 
 ## EDB-ID List
 
-- [x] EDB-119236
-- [x] EDB-119688
 - [ ] EDB-10634
 - [ ] EDB-14904
 - [ ] EDB-15054
@@ -94,9 +92,9 @@ This repo stores source code of the vulnerable program.
 - [ ] EDB-1574
 - [ ] EDB-1578
 - [ ] EDB-16855
-- [ ] EDB-17083
+- [x] EDB-17083
 - [x] EDB-17611
-- [ ] EDB-22683
+- [x] EDB-22683
 - [x] EDB-23523
 - [x] EDB-24981
 - [ ] EDB-24984
