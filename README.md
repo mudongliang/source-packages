@@ -97,7 +97,7 @@ This repo stores source code of the vulnerable program.
 - [x] EDB-22683
 - [x] EDB-23523
 - [x] EDB-24981
-- [ ] EDB-24984
+- [x] EDB-24984
 - [ ] EDB-24995
 - [ ] EDB-25011
 - [x] EDB-25018
@@ -121,7 +121,7 @@ This repo stores source code of the vulnerable program.
 - [x] EDB-38616
 - [ ] EDB-38617
 - [ ] EDB-38681
-- [ ] EDB-38685
+- [x] EDB-38685
 - [ ] EDB-39406
 - [x] EDB-39445
 - [ ] EDB-5424
